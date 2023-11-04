@@ -12,7 +12,7 @@ body {
   background-size: cover;
   background-position: left;
 }
-button{
+.fondo button{
   background-color: #7743DB !important;
 }
 .fondoinfo{
@@ -36,7 +36,9 @@ button{
   font-weight: 700;
   color: #373a3c;
 }
-
+.click button{
+  background: #7743DB;
+}
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
