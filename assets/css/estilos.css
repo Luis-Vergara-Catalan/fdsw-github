@@ -2,8 +2,6 @@ body {
   font-family: "Raleway", sans-serif;
   background-color: #FFFBF5;
 }
-
-
 /* Hero Section */
 
 #Hero-Section {
@@ -11,6 +9,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+}
+.letras{
+  font-size: 6rem;
 }
 .fondo button{
   background-color: #7743DB !important;
