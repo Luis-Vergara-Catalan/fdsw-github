@@ -1,5 +1,6 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-color: #FFFBF5;
 }
 
 /* Hero Section */
@@ -10,9 +11,17 @@ body {
   background-size: cover;
   background-position: left;
 }
-
+button{
+  background-color: #7743DB !important;
+}
+.fondoinfo{
+  background-color: #FFFBF5;
+}
 /* Mis trabajos */
 
+.fondo{
+  background-color: #C3ACD0;
+}
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
@@ -36,4 +45,7 @@ body {
     width: 100px;
   }
 
+}
+footer{
+  background-color: #7743DB;
 }
